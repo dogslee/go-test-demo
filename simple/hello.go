@@ -1,4 +1,4 @@
-package demo
+package simple
 
 import "fmt"
 
